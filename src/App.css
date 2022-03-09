@@ -12,18 +12,18 @@ body {
   padding: 20px;
 }
 
-.app_header {
+.app__header {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
   justify-content: space-between;
 }
 
-.app_left {
+.app__left {
   flex: 0.9;
 }
 
-.app_stats {
+.app__stats {
   display: flex;
   justify-content: space-between;
 }
